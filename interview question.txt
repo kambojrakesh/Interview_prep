@@ -1,0 +1,29 @@
+Accenture:-
+
+Auto Encoder
+aaabbbb,cccaadd  - > [[a,3), (b,2)
+text/Numeric featuring enginering
+transformer 
+
+
+------------------------------------------
+EXL 
+
+TF-IDF implementation
+RNN vs CNN
+ball sorting based on wieght
+
+
+-----
+
+classification metrics
+general metrics
+modelling scenarios
+ 
+ 
+ -----------------
+ 
+ 
+ word2vec architecture
+ how to find similarity
+ autoencoder
