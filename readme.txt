@@ -1,3 +1,7 @@
+model --> ONNX --> TensorRT
+
+
+
 Round 1: Few companies have first written round, comprising of MCQs on core Data Engineering topics like Spark, Hadoop, AWS/Azure/GCP, SQL, Hive, etc. along with a few coding questions.
 
 Round 2: Primarily based on SQL. It included questions around-
