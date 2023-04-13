@@ -1,5 +1,5 @@
 Argilla on Hugging Face 
 Deep sparse
 Tweet NLP
-Distillation
 Deepspeed
+transformer learning, fine tunning, knowledge ditillation(teacher dtudent learning), pruning, quantization
